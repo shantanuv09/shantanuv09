@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Shantanu! <img src="https://github.com/shantanuv09/shantanuv09/blob/main/wave.gif" 
+<h1 align="center">Hey, I'm Shantanu! <img src="wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> 
