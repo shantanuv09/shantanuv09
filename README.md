@@ -1,8 +1,7 @@
 <h1 align="center">Hey, I'm Shantanu <img src="wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> 
-	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{shantanuv09}1212%2Fhit-counter"/>
+         width="45" />
 </h1>
 
 <p align="center">
