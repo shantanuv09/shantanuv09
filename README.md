@@ -12,7 +12,7 @@
 
 ### 
 
-- 🔭 B.Tech CSIT Specialization Cyber Security | MS. in Cyber Security
+- 🔭 B.Tech CSIT Specialization Cyber Security | MS in Cyber Security
 - 🌱 Expanding my shell to learn more each day.
 - 👨‍💻 Looking forward to become a Penetration Tester.
 - 🥅 A keen worker and loves perfection
